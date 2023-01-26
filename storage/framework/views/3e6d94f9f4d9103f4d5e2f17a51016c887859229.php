@@ -1,0 +1,1 @@
+<?php /**PATH E:\BINUS\Semester 5\Web Programming\BS\bs\resources\views/components/alert.blade.php ENDPATH**/ ?>
