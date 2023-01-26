@@ -1,0 +1,8 @@
+Manual Guide
+Run XAMPP Apps dan Start Apache, MySQL dan Klik Admin
+Klik New dan Create Database "mooncafe"
+Open Visual Studio Code, and Open Folder Project
+Open Terminal dan Run "composer install", "composer update"
+Open Terminal dan Run "php artisan migrate"
+Open Terminal dan Run "php artisan db:seed DatabaseSeeder"
+Open Terminal dan Run "php artisan serve"
